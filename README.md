@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/ismail-fathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismail-fathi" height="30" width="40" /></a>
 <a href="https://fb.com/ismail.fathi.75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ismail.fathi.75" height="30" width="40" /></a>
 <a href="https://instagram.com/ismailfathi.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismailfathi.me" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/UCQhZp0Gf4ZGiAOuWoLkI_ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ismail fathi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCQhZp0Gf4ZGiAOuWoLkI_ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ismail fathi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
